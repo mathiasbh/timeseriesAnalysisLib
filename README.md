@@ -29,7 +29,7 @@ correctJump(dataSt, 1);
 
 The first argument is the input data loaded into the data structure and the second argument corrects `1` jumps.
 
-Lastly you see the powerspectrum from frequencies `freq_initial = 0` to `freq_final = 12` which clearly shows three peaks at the correct frequencies:
+Lastly you see the powerspectrum from frequencies `freq_initial = 0` to `freq_final = 8` which clearly shows three peaks at the correct frequencies:
 ![](Images/Example1_powerspectrum.png)
 
 ## Example2
